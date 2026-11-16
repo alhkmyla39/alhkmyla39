@@ -171,24 +171,6 @@ I’m exploring the project’s architecture and design direction.
 
 </details>
 
-<details>
-<summary><strong>Task Tracker API · Practice project</strong></summary>
-
-A small API and browser interface for creating, completing, updating, and deleting tasks.
-
-| Aspect | Detail |
-| --- | --- |
-| Stack | Python, FastAPI, SQLite, HTML, JavaScript, Pydantic |
-| Scale | Local development project |
-| Performance | No benchmark published |
-| Security | Pydantic request validation |
-| Impact | Practice with REST endpoints and database persistence |
-| Project overview | [Read the overview](https://github.com/alhkmyla39/portfolio-task-tracker-api#readme) |
-
-I used this project to practice HTTP methods, input validation, and storing task data in SQLite.
-
-</details>
-
 **Coursework.** My university projects include StudyMate, an accessibility-focused JavaFX team project, and a hotel booking analytics assignment using Hadoop, Hive, and Spark SQL.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;height=3&amp;color=0%3A0F766E%2C52%3A10B981%2C100%3A14B8A6" alt="" width="100%" />
