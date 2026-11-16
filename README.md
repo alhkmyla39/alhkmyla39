@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/portrait.jpg" alt="Alaa Al-Hakami" width="240" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Audiowide&amp;size=23&amp;color=14B8A6&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=45&amp;duration=3300&amp;pause=950&amp;lines=Software%20Engineering%20%40%20Taylor%E2%80%99s%3BFull-stack%20development%20and%20applied%20AI%3BBuilding%20Thakerli%20and%20Maalivo%3BInternship%20window%20%C2%B7%20Apr%E2%80%93Aug%202027" alt="Software Engineering at Taylor’s. Full-stack development and applied AI. Building Thakerli and Maalivo. Internship window April to August 2027." />
 </p>
 
