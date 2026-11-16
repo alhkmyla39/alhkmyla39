@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Alaa Aldeen Mohammed Noman Senan Al-Hakami | Full-stack development, applied AI and data systems" width="100%" />
+  <img src="./assets/header.svg" alt="Alaa Aldeen Mohammed Noman Senan Al-Hakami | Full-stack development, applied AI and data analysis" width="100%" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 
 ## About
 
-I’m Alaa Aldeen, a Software Engineering undergraduate at Taylor’s University in Malaysia. I’m based in Kuala Lumpur and expect to graduate in August 2027. My goal is to work as an Software Engineer.
+I’m Alaa Aldeen, a Software Engineering undergraduate at Taylor’s University in Malaysia. I’m based in Kuala Lumpur and expect to graduate in August 2027. My goal is to work as a Software Engineer.
 
 I’m learning how to integrate language models into applications and how to design the APIs and databases those applications depend on. My university coursework covers software design, testing, operating systems, and data processing. My featured work also includes independent projects and practice repositories. My university internship is scheduled for 19 April–6 August 2027.
 
