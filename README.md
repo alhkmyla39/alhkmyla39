@@ -153,21 +153,6 @@ The import flow supports spreadsheets and delimited reports. I’m using the pro
 
 </details>
 
-<details>
-<summary><strong>AgenticRental · Early-stage project</strong></summary>
-
-A rental software project in early development.
-
-| Aspect | Detail |
-| --- | --- |
-| Stack | JavaFX, Maven, Git, Figma |
-| Scale | Early-stage repository |
-| Performance | No benchmark published |
-| Security | No security details published |
-| Impact | Early-stage exploration |
-| Project overview | [Read the overview](https://github.com/alhkmyla39/portfolio-agenticrental#readme) |
-
-I’m exploring the project’s architecture and design direction.
 
 </details>
 
