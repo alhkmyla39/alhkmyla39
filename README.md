@@ -129,7 +129,7 @@ A bilingual study assistant that turns text and PDF notes into source-linked cha
 | Performance | Streams chat responses and saves generated study sets for reuse |
 | Security | Email confirmation, password recovery, and account deletion |
 | Impact | Study practice from a user’s own notes |
-| Repository | [ai-study-assistant](https://github.com/alhkmyla39/ai-study-assistant) · Private · [Demo](https://thakerli.onrender.com/) |
+| Project overview | [Read the overview](https://github.com/alhkmyla39/portfolio-thakerli#readme) |
 
 I built the application and integrated Groq for hosted models and Ollama for local models. The project has given me practice connecting model outputs to saved study material and progress.
 
@@ -147,7 +147,7 @@ An Arabic and English prototype for importing sales reports, validating their co
 | Performance | No benchmark published |
 | Security | Workspace reads require server-side membership checks |
 | Impact | Report review and sales KPI exploration in the prototype |
-| Repository | [Maalivo](https://github.com/alhkmyla39/Maalivo) · Private |
+| Project overview | [Read the overview](https://github.com/alhkmyla39/portfolio-maalivo#readme) |
 
 The import flow supports spreadsheets and delimited reports. I’m using the project to practice report validation and reporting workflows.
 
@@ -165,7 +165,7 @@ A rental software project in early development.
 | Performance | No benchmark published |
 | Security | No security details published |
 | Impact | Early-stage exploration |
-| Repository | [AgenticRental](https://github.com/alhkmyla39/AgenticRental) · Private |
+| Project overview | [Read the overview](https://github.com/alhkmyla39/portfolio-agenticrental#readme) |
 
 I’m exploring the project’s architecture and design direction.
 
@@ -183,7 +183,7 @@ A small API and browser interface for creating, completing, updating, and deleti
 | Performance | No benchmark published |
 | Security | Pydantic request validation |
 | Impact | Practice with REST endpoints and database persistence |
-| Repository | [task-tracker-api](https://github.com/alhkmyla39/task-tracker-api) · Private |
+| Project overview | [Read the overview](https://github.com/alhkmyla39/portfolio-task-tracker-api#readme) |
 
 I used this project to practice HTTP methods, input validation, and storing task data in SQLite.
 
