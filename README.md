@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Internship-Apr%E2%80%93Aug%202027-14B8A6?style=flat-square&amp;labelColor=0A1410" alt="Internship Apr–Aug 2027" />
   <img src="https://img.shields.io/badge/Learning-Applied%20AI-10B981?style=flat-square&amp;labelColor=0A1410" alt="Learning Applied AI" />
   <img src="https://img.shields.io/badge/Focus-Full--stack%20development-14B8A6?style=flat-square&amp;labelColor=0A1410" alt="Focus Full-stack development" />
-  <img src="https://img.shields.io/badge/No%20Certifications%20Claimed-0F766E?style=flat-square&amp;labelColor=0A1410" alt="No Certifications Claimed" />
+  <img src="https://img.shields.io/badge/Java%20Foundations-Completed-10B981?style=flat-square&amp;labelColor=0A1410" alt="Java Foundations completed" />
   <img src="https://img.shields.io/badge/Based%20in-Kuala%20Lumpur%2C%20MY-0F766E?style=flat-square&amp;labelColor=0A1410" alt="Based in Kuala Lumpur, MY" />
 </p>
 
@@ -85,11 +85,14 @@ September 2024–August 2027 (expected)
 
 | Category | Tools |
 | --- | --- |
-| Languages & web | <a href="https://dev.java/"><img src="https://skillicons.dev/icons?i=java&amp;theme=dark" alt="Java" width="40" /></a> <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&amp;theme=dark" alt="Python" width="40" /></a> <a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="https://skillicons.dev/icons?i=c&amp;theme=dark" alt="C" width="40" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&amp;theme=dark" alt="JavaScript" width="40" /></a> <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html&amp;theme=dark" alt="HTML" width="40" /></a> <a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css&amp;theme=dark" alt="CSS" width="40" /></a> |
+| Languages | <a href="https://dev.java/"><img src="https://skillicons.dev/icons?i=java&amp;theme=dark" alt="Java" title="Java" width="40" /></a> <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&amp;theme=dark" alt="Python" title="Python" width="40" /></a> <a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="https://skillicons.dev/icons?i=c&amp;theme=dark" alt="C" title="C" width="40" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&amp;theme=dark" alt="JavaScript" title="JavaScript" width="40" /></a> <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" alt="TypeScript" title="TypeScript" width="40" /></a> |
+| Frontend | <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html&amp;theme=dark" alt="HTML" title="HTML" width="40" /></a> <a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css&amp;theme=dark" alt="CSS" title="CSS" width="40" /></a> <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&amp;theme=dark" alt="React" title="React" width="40" /></a> |
 | Backend & databases | <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi&amp;theme=dark" alt="FastAPI" width="40" /></a> <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" alt="Node.js" width="40" /></a> <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" alt="PostgreSQL" width="40" /></a> <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&amp;theme=dark" alt="MySQL" width="40" /></a> <a href="https://sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite&amp;theme=dark" alt="SQLite" width="40" /></a> |
+| Testing | <a href="https://playwright.dev/"><img src="https://img.shields.io/badge/Playwright-14B8A6?style=for-the-badge&amp;labelColor=0A1410" alt="Playwright" title="Playwright" /></a> <a href="https://junit.org/"><img src="https://img.shields.io/badge/JUnit-10B981?style=for-the-badge&amp;labelColor=0A1410" alt="JUnit" title="JUnit" /></a> |
+| Cloud & deployment | <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-10B981?style=for-the-badge&amp;labelColor=0A1410" alt="Supabase" title="Supabase" /></a> <a href="https://render.com/"><img src="https://img.shields.io/badge/Render-14B8A6?style=for-the-badge&amp;labelColor=0A1410" alt="Render" title="Render" /></a> <a href="https://neon.com/"><img src="https://img.shields.io/badge/Neon-10B981?style=for-the-badge&amp;labelColor=0A1410" alt="Neon" title="Neon" /></a> |
 | Build, version control & design | <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&amp;theme=dark" alt="Git" width="40" /></a> <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&amp;theme=dark" alt="GitHub" width="40" /></a> <a href="https://maven.apache.org/"><img src="https://skillicons.dev/icons?i=maven&amp;theme=dark" alt="Apache Maven" width="40" /></a> <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma&amp;theme=dark" alt="Figma" width="40" /></a> <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux&amp;theme=dark" alt="Linux" width="40" /></a> <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&amp;theme=dark" alt="Visual Studio Code" width="40" /></a> |
 
-I’ve also used JavaFX for desktop coursework, JUnit for unit testing, and Hadoop, Hive, and Spark SQL for data coursework.
+I also use SQL for relational databases, JavaFX for desktop coursework, and Hadoop, Hive, and Spark SQL for data coursework.
 
 <p align="center">
   <img src="https://img.shields.io/badge/In%20progress-LLM%20integration-10B981?style=flat-square&amp;labelColor=0A1410" alt="In progress LLM integration" />
@@ -117,46 +120,12 @@ I’ve also used JavaFX for desktop coursework, JUnit for unit testing, and Hado
 
 ## Featured Projects
 
-<details>
-<summary><strong>Thakerli · Independent project</strong></summary>
+| Project | Description | Tech stack |
+| --- | --- | --- |
+| **[Thakerli · ذاكرلي](https://github.com/alhkmyla39/thakerli-explaintion#readme)**<br>Independent project | Bilingual AI study assistant for text and PDF notes, source-linked answers, quizzes, flashcards, and study progress. | Python · FastAPI · HTML · CSS · JavaScript · SQLite · PostgreSQL · Groq |
+| **[Maalivo · ماليفو](https://github.com/alhkmyla39/maalivo-explaintion#readme)**<br>In development | Bilingual retail analytics platform for spreadsheet and CSV imports, duplicate checks, report review, and sales KPI dashboards. | Python · FastAPI · HTML · CSS · JavaScript · SQLite |
 
-A bilingual study assistant that turns text and PDF notes into source-linked chat answers, quizzes, and flashcards.
-
-| Aspect | Detail |
-| --- | --- |
-| Stack | Python, FastAPI, SQLite, PostgreSQL, Groq API, Ollama |
-| Scale | Text and PDF notes with Arabic and English interfaces |
-| Performance | Streams chat responses and saves generated study sets for reuse |
-| Security | Email confirmation, password recovery, and account deletion |
-| Impact | Study practice from a user’s own notes |
-| Project overview | [Read the overview](https://github.com/alhkmyla39/portfolio-thakerli#readme) |
-
-I built the application and integrated Groq for hosted models and Ollama for local models. The project has given me practice connecting model outputs to saved study material and progress.
-
-</details>
-
-<details>
-<summary><strong>Maalivo · Business intelligence prototype</strong></summary>
-
-An Arabic and English prototype for importing sales reports, validating their contents, and reviewing the resulting figures in a dashboard.
-
-| Aspect | Detail |
-| --- | --- |
-| Stack | Python, FastAPI, SQLite, HTML, CSS, JavaScript |
-| Scale | Local company workspaces and a separate sample-data demo |
-| Performance | No benchmark published |
-| Security | Workspace reads require server-side membership checks |
-| Impact | Report review and sales KPI exploration in the prototype |
-| Project overview | [Read the overview](https://github.com/alhkmyla39/portfolio-maalivo#readme) |
-
-The import flow supports spreadsheets and delimited reports. I’m using the project to practice report validation and reporting workflows.
-
-</details>
-
-
-</details>
-
-**Coursework.** My university projects include StudyMate, an accessibility-focused JavaFX team project, and a hotel booking analytics assignment using Hadoop, Hive, and Spark SQL.
+**Academic projects** · StudyMate, an accessibility-focused JavaFX team project, and hotel booking analytics using Hadoop, Hive, and Spark SQL.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;height=3&amp;color=0%3A0F766E%2C52%3A10B981%2C100%3A14B8A6" alt="" width="100%" />
 
@@ -198,9 +167,12 @@ The import flow supports spreadsheets and delimited reports. I’m using the pro
 
 ## Certifications
 
-**Certifications: None Claimed Yet.**
-
-Current study areas include LLM integration, FastAPI development, and relational database design.
+| Certification | Provider | Status |
+| --- | --- | --- |
+| **Java Foundations** | Oracle Academy | Completed · December 2024 |
+| **GitHub Foundations** | GitHub | In progress |
+| **SQL Associate** | DataCamp | In progress |
+| **AI Engineer for Developers Associate** | DataCamp | In progress |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;height=3&amp;color=0%3A0F766E%2C52%3A10B981%2C100%3A14B8A6" alt="" width="100%" />
 
