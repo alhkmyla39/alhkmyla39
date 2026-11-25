@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Alaa Aldeen Mohammed Noman Senan Al-Hakami | Full-stack development, applied AI and data systems" width="100%" />
+  <img src="./assets/header.svg" alt="Alaa Aldeen Mohammed Noman Senan Al-Hakami | Full-stack development and applied AI" width="100%" />
 </p>
 
 <p align="center">
