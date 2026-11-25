@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 326" role="img" aria-labelledby="title description">
   <title id="title">Alaa Aldeen Mohammed Noman Senan Al-Hakami</title>
-  <desc id="description">Full-stack development, applied AI, and data systems. GitHub: alhkmyla39. Kuala Lumpur, Malaysia.</desc>
+  <desc id="description">Full-stack development, applied AI, and data systems. GitHub: alhkmyla39. Selangor, Malaysia.</desc>
   <defs>
     <linearGradient id="panel" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#0A1410"/><stop offset="1" stop-color="#0D1117"/></linearGradient>
     <linearGradient id="edge" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#10B981"/><stop offset=".51" stop-color="#16473D"/><stop offset="1" stop-color="#0F766E"/></linearGradient>
@@ -23,7 +23,7 @@
   <g font-family="monospace" font-size="19" letter-spacing="1.6" fill="#A7F3D0">
     <circle cx="48" cy="47" r="3" fill="#FBBF24"/>
     <text x="61" y="53">@alhkmyla39</text>
-    <text x="1153" y="289" text-anchor="end">KUALA LUMPUR, MALAYSIA</text>
+    <text x="1153" y="289" text-anchor="end">SELANGOR, MALAYSIA</text>
   </g>
   <use href="#letterforms" fill="none" stroke="#10B981" stroke-width="3" opacity=".15"><animate attributeName="opacity" values=".08;.22;.08" dur="7s" repeatCount="indefinite"/></use>
   <use href="#letterforms" fill="url(#ink)"/>

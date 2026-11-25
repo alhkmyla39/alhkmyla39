@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Focus-Full--stack%20development-14B8A6?style=flat-square&amp;labelColor=0A1410" alt="Focus Full-stack development" />
   <a href="https://www.datacamp.com/certificate/AIEDA0010743944196"><img src="https://img.shields.io/badge/AI%20Engineer%20Associate-Certified-14B8A6?style=flat-square&amp;labelColor=0A1410" alt="DataCamp AI Engineer for Developers Associate, certified" /></a>
   <img src="https://img.shields.io/badge/Java%20Foundations-Completed-10B981?style=flat-square&amp;labelColor=0A1410" alt="Java Foundations completed" />
-  <img src="https://img.shields.io/badge/Based%20in-Kuala%20Lumpur%2C%20MY-0F766E?style=flat-square&amp;labelColor=0A1410" alt="Based in Kuala Lumpur, MY" />
+  <img src="https://img.shields.io/badge/Based%20in-Selangor%2C%20MY-0F766E?style=flat-square&amp;labelColor=0A1410" alt="Based in Selangor, MY" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 ## About
 
-I’m Alaa Aldeen, a Software Engineering undergraduate at Taylor’s University in Malaysia. I’m based in Kuala Lumpur and expect to graduate in August 2027. My goal is to work as a Software Engineer.
+I’m Alaa Aldeen, a Software Engineering undergraduate at Taylor’s University in Malaysia. I’m based in Selangor and expect to graduate in August 2027. My goal is to work as a Software Engineer.
 
 I’m learning how to integrate language models into applications and how to design the APIs and databases those applications depend on. My university coursework covers software design, testing, operating systems, and data processing. My featured work also includes independent projects and practice repositories. My university internship is scheduled for 19 April–6 August 2027.
 
