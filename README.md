@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Alaa Aldeen Mohammed Noman Senan Al-Hakami | Full-stack development, applied AI and data analysis" width="100%" />
+  <img src="./assets/header.svg" alt="Alaa Aldeen Mohammed Noman Senan Al-Hakami | Full-stack development, applied AI and data systems" width="100%" />
 </p>
 
 <p align="center">
@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Internship-Apr%E2%80%93Aug%202027-14B8A6?style=flat-square&amp;labelColor=0A1410" alt="Internship Apr–Aug 2027" />
   <img src="https://img.shields.io/badge/Learning-Applied%20AI-10B981?style=flat-square&amp;labelColor=0A1410" alt="Learning Applied AI" />
   <img src="https://img.shields.io/badge/Focus-Full--stack%20development-14B8A6?style=flat-square&amp;labelColor=0A1410" alt="Focus Full-stack development" />
+  <a href="https://www.datacamp.com/certificate/AIEDA0010743944196"><img src="https://img.shields.io/badge/AI%20Engineer%20Associate-Certified-14B8A6?style=flat-square&amp;labelColor=0A1410" alt="DataCamp AI Engineer for Developers Associate, certified" /></a>
   <img src="https://img.shields.io/badge/Java%20Foundations-Completed-10B981?style=flat-square&amp;labelColor=0A1410" alt="Java Foundations completed" />
   <img src="https://img.shields.io/badge/Based%20in-Kuala%20Lumpur%2C%20MY-0F766E?style=flat-square&amp;labelColor=0A1410" alt="Based in Kuala Lumpur, MY" />
 </p>
@@ -42,7 +43,7 @@ I’m learning how to integrate language models into applications and how to des
 <table>
 <tr><th>Focus area</th><th>What I work on</th></tr>
 <tr><td>Full-stack development</td><td>Web interfaces, APIs, and relational databases</td></tr>
-<tr><td>Applied AI</td><td>Study tools grounded in uploaded notes and hosted or local models</td></tr>
+<tr><td>Applied AI</td><td>Study tools grounded in uploaded notes, with cited answers</td></tr>
 <tr><td>Data systems</td><td>Report imports, validation, and dashboards</td></tr>
 <tr><td>Software design</td><td>Object-oriented design, design patterns, and testing</td></tr>
 </table>
@@ -89,7 +90,7 @@ September 2024–August 2027 (expected)
 | Frontend | <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html&amp;theme=dark" alt="HTML" title="HTML" width="40" /></a> <a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css&amp;theme=dark" alt="CSS" title="CSS" width="40" /></a> <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&amp;theme=dark" alt="React" title="React" width="40" /></a> |
 | Backend & databases | <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi&amp;theme=dark" alt="FastAPI" width="40" /></a> <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" alt="Node.js" width="40" /></a> <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" alt="PostgreSQL" width="40" /></a> <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&amp;theme=dark" alt="MySQL" width="40" /></a> <a href="https://sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite&amp;theme=dark" alt="SQLite" width="40" /></a> |
 | Testing | <a href="https://playwright.dev/"><img src="./assets/icons/playwright.svg" alt="Playwright" title="Playwright" width="40" height="40" /></a> <a href="https://junit.org/"><img src="./assets/icons/junit.svg" alt="JUnit" title="JUnit" width="40" height="40" /></a> |
-| Cloud & deployment | <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase&amp;theme=dark" alt="Supabase" title="Supabase" width="40" height="40" /></a> <a href="https://render.com/"><img src="./assets/icons/render.svg" alt="Render" title="Render" width="40" height="40" /></a> <a href="https://neon.com/"><img src="./assets/icons/neon.svg" alt="Neon" title="Neon" width="40" height="40" /></a> |
+| Cloud & deployment | <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase&amp;theme=dark" alt="Supabase" title="Supabase" width="40" height="40" /></a> <a href="https://render.com/"><img src="./assets/icons/render.svg" alt="Render" title="Render" width="40" height="40" /></a> <a href="https://neon.com/"><img src="./assets/icons/neon.svg" alt="Neon" title="Neon" width="40" height="40" /></a> <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions&amp;theme=dark" alt="GitHub Actions" title="GitHub Actions" width="40" height="40" /></a> |
 | Build, version control & design | <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&amp;theme=dark" alt="Git" width="40" /></a> <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&amp;theme=dark" alt="GitHub" width="40" /></a> <a href="https://maven.apache.org/"><img src="https://skillicons.dev/icons?i=maven&amp;theme=dark" alt="Apache Maven" width="40" /></a> <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma&amp;theme=dark" alt="Figma" width="40" /></a> <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux&amp;theme=dark" alt="Linux" width="40" /></a> <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&amp;theme=dark" alt="Visual Studio Code" width="40" /></a> |
 
 I also use SQL for relational databases, JavaFX for desktop coursework, and Hadoop, Hive, and Spark SQL for data coursework.
@@ -107,12 +108,12 @@ I also use SQL for relational databases, JavaFX for desktop coursework, and Hado
 <table>
 <tr><th>Domain</th><th>Level</th><th>Details</th></tr>
 <tr><td>Object-oriented programming</td><td>Hands-on</td><td>Java classes, interfaces, and design patterns</td></tr>
-<tr><td>Web interfaces</td><td>Hands-on</td><td>HTML, CSS, and JavaScript interfaces</td></tr>
+<tr><td>Web interfaces</td><td>Hands-on</td><td>HTML, CSS, JavaScript, React, and TypeScript interfaces</td></tr>
 <tr><td>Backend APIs</td><td>Hands-on</td><td>FastAPI endpoints and input validation</td></tr>
 <tr><td>Relational databases</td><td>Hands-on</td><td>SQL, SQLite, and PostgreSQL</td></tr>
-<tr><td>Testing</td><td>Hands-on</td><td>JUnit and regression testing in coursework</td></tr>
+<tr><td>Testing</td><td>Hands-on</td><td>pytest and Playwright in projects, JUnit in coursework</td></tr>
 <tr><td>Data engineering</td><td>Foundational</td><td>HDFS, Hive, Spark SQL, and MapReduce coursework</td></tr>
-<tr><td>Applied AI</td><td>Studying</td><td>Hosted and local models for note-based study tools</td></tr>
+<tr><td>Applied AI</td><td>Hands-on</td><td>Language model answers with source citations in Thakerli</td></tr>
 </table>
 </div>
 
@@ -122,10 +123,10 @@ I also use SQL for relational databases, JavaFX for desktop coursework, and Hado
 
 | Project | Description | Tech stack |
 | --- | --- | --- |
-| **[Thakerli · ذاكرلي](https://github.com/alhkmyla39/thakerli-explaintion#readme)**<br>Independent developer | An Arabic and English AI study assistant that helps students learn from their own text and PDF notes. Students can ask questions, follow cited excerpts back to the original material, and generate quizzes and flashcards. I built the application’s study workflows, including saved practice, timed quizzes, mistake review, and learning progress tracking. | Python · FastAPI · HTML · CSS · JavaScript · SQLite · PostgreSQL · Groq |
-| **[Maalivo · ماليفو](https://github.com/alhkmyla39/maalivo-explaintion#readme)**<br>Independent developer<br>In development | A bilingual retail analytics platform that turns spreadsheet and CSV reports into sales dashboards. The import workflow detects fields for review, validates records, checks duplicate transactions, and reconciles monthly summaries with detailed sales data before publication. I built the reporting workflows and tested analytics journeys with Playwright, with a focus on keeping KPI figures traceable to their source reports. | Python · FastAPI · HTML · CSS · JavaScript · SQLite · Playwright |
+| **[Thakerli · ذاكرلي](https://github.com/alhkmyla39/thakerli-explaintion#readme)**<br>Independent developer<br>[Live site](https://thakerli.tech/) | An Arabic and English AI study assistant that helps students learn from their own text and PDF notes. Students can ask questions, follow cited excerpts back to the original material, and generate quizzes and flashcards. I built the application’s study workflows, including saved practice, timed quizzes, mistake review, and learning progress tracking. | Python · FastAPI · HTML · CSS · JavaScript · SQLite · PostgreSQL · Groq · pytest · GitHub Actions |
+| **[Maalivo · ماليفو](https://github.com/alhkmyla39/maalivo-explaintion#readme)**<br>Independent developer<br>In development | A bilingual retail analytics platform that turns spreadsheet and CSV reports into sales dashboards. The import workflow detects fields for review, validates records, checks duplicate transactions, and reconciles monthly summaries with detailed sales data before publication. I built the reporting workflows and tested analytics journeys with Playwright, with a focus on keeping KPI figures traceable to their source reports. | Python · FastAPI · React · TypeScript · SQLite · Playwright |
 | **[StaleGuard](https://github.com/alhkmyla39/StaleGuard#readme)**<br>Frontend developer<br>Global AI Hackathon · Team project | An AI answer verification tool that identifies time-sensitive claims, checks them against web sources, and displays freshness scores with supporting evidence. Users can review claims and compare a corrected answer with the original. I owned the responsive React and TypeScript interface for claim review and results on desktop and mobile, as part of the hackathon team. | React · TypeScript · Vite · Python · FastAPI · SQLite · Bifrost · Groq · Tavily |
-| **CollabWisely**<br>Shared Knowledge & Evaluation Lead<br>Taylor’s team capstone · In progress | An AI collaboration workspace being designed to connect team documents, chat, tasks, and agent proposals with owner approvals. I lead the requirements and design for document and chat ingestion, hybrid retrieval, and source citations. My evaluation plan includes a 50-question retrieval benchmark and a System Usability Scale study, coordinated with teammates responsible for the frontend, backend, orchestration, and governance. | Planned stack · Python · FastAPI · PostgreSQL · pgvector · LangGraph |
+| **CollabWisely**<br>Information Retrieval & Evaluation<br>Taylor’s team capstone · In progress | An AI collaboration workspace being designed to connect team documents, chat, tasks, and agent proposals with owner approvals. I design document and chat ingestion, hybrid retrieval, and source citations. My evaluation plan includes a 50-question retrieval benchmark and a System Usability Scale study, coordinated with teammates responsible for the frontend, backend, orchestration, and governance. | Planned stack · Python · FastAPI · PostgreSQL · pgvector · LangGraph |
 
 **Academic projects** · StudyMate, an accessibility-focused JavaFX team project, and hotel booking analytics using Hadoop, Hive, and Spark SQL.
 
@@ -160,7 +161,7 @@ I also use SQL for relational databases, JavaFX for desktop coursework, and Hado
 <table>
 <tr><th>Recognition</th><th>Details</th></tr>
 <tr><td>Dean’s List</td><td>February 2025 and February 2026 · Taylor’s University</td></tr>
-<tr><td>Independent development</td><td>Built Thakerli with both hosted and local model options</td></tr>
+<tr><td>Independent development</td><td>Built and deployed <a href="https://thakerli.tech/">Thakerli</a>, with 113 automated tests</td></tr>
 <tr><td>Academic project work</td><td>Completed software construction and data processing coursework</td></tr>
 </table>
 </div>
@@ -171,10 +172,10 @@ I also use SQL for relational databases, JavaFX for desktop coursework, and Hado
 
 | Certification | Provider | Status |
 | --- | --- | --- |
+| **[AI Engineer for Developers Associate](https://www.datacamp.com/certificate/AIEDA0010743944196)** | DataCamp | Completed · November 2026 |
 | **Java Foundations** | Oracle Academy | Completed · December 2024 |
 | **GitHub Foundations** | GitHub | In progress |
 | **SQL Associate** | DataCamp | In progress |
-| **AI Engineer for Developers Associate** | DataCamp | In progress |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;height=3&amp;color=0%3A0F766E%2C52%3A10B981%2C100%3A14B8A6" alt="" width="100%" />
 
@@ -225,7 +226,7 @@ I also use SQL for relational databases, JavaFX for desktop coursework, and Hado
 ```yaml
 learning:
   - FastAPI and relational database design
-  - LLM integration with Groq and Ollama
+  - LLM integration with Groq
 building:
   - Thakerli, a bilingual study assistant
   - Maalivo, a retail reporting prototype
