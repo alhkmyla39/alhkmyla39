@@ -195,11 +195,6 @@ I also use SQL for relational databases, JavaFX for desktop coursework, and Hado
 </p>
 
 <p align="center">
-  <a href="https://github.com/alhkmyla39"><img src="https://github-readme-stats.vercel.app/api?username=alhkmyla39&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=10B981&amp;text_color=D1FAE5&amp;icon_color=14B8A6&amp;show_icons=true" alt="GitHub statistics" width="48%" /></a>
-  <a href="https://github.com/alhkmyla39?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhkmyla39&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=10B981&amp;text_color=D1FAE5&amp;icon_color=14B8A6&amp;layout=compact&amp;langs_count=6" alt="Languages in public repositories" width="39%" /></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/alhkmyla39#contribution-graph"><img src="https://streak-stats.demolab.com/?user=alhkmyla39&amp;hide_border=true&amp;background=0D1117&amp;ring=10B981&amp;fire=FBBF24&amp;currStreakNum=D1FAE5&amp;currStreakLabel=14B8A6&amp;sideNums=D1FAE5&amp;sideLabels=A7F3D0&amp;dates=86A99B" alt="GitHub contribution streak" width="60%" /></a>
 </p>
 
