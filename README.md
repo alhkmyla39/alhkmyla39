@@ -173,7 +173,7 @@ I also use SQL for relational databases, JavaFX for desktop coursework, and Hado
 | Certification | Provider | Status |
 | --- | --- | --- |
 | **[AI Engineer for Developers Associate](https://www.datacamp.com/certificate/AIEDA0010743944196)** | DataCamp | Completed · November 2026 |
-| **Java Foundations** | Oracle Academy | Completed · December 2024 |
+| **[Java Foundations](./certificates/java-foundations-oracle-academy.pdf)** | Oracle Academy | Completed · December 2024 |
 | **GitHub Foundations** | GitHub | In progress |
 | **SQL Associate** | DataCamp | In progress |
 
